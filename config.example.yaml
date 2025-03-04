@@ -1,0 +1,18 @@
+# 脚本基础配置
+ModelName: "yolo" # 默认无需设置，已实现自动匹配声骸模型
+
+LogFilePath: # 日志保存路径，留空即为项目根目录，如需设置，则需为"c:\\si.txt"格式，使用"\\"而不是"\"
+
+# 游戏崩溃捕获及处理
+RebootCount: 0
+# 控制台信息
+
+
+
+# 赞助商
+IsVIP : True
+TargetTC : 90
+TargetSC: 120
+
+# 经理人
+OcrInterval: 0 # OCR识别间隔时间
